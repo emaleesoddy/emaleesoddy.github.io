@@ -1,4 +1,4 @@
-##writing extensible (aura) lightning components through inheritance
+## writing extensible (aura) lightning components through inheritance
 <small>originally written & published 18.02.2018</small>
 
 Translating the object-oriented metaphor typically used in compiled programming languages to a descriptive markup language is a bit challenging to wrap your head around, but this is exactly what Lightning Components in Salesforce do. It makes them quite powerful, flexible and minimizes duplicate code &mdash; something that has been trending more and more in front-end web programming.
