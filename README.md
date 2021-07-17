@@ -1,1 +1,1 @@
-# emaleesoddy.github.io
+hello! 👋🏻 i'm [emalee soddy](https://emalee.dev). sometimes i write things about development here.
