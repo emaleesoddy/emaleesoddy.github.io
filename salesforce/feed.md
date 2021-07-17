@@ -16,10 +16,10 @@ It is not possible to post to the entire community from the Feed Publisher. Belo
 * **Standard Pages:** "To My Followers"
 * **Topic Detail:** "To {Topic}"
 * **Group Detail:** "To {Group}"
-* **User Profile:**<sup>✝</sup> "To {User}"
+* **User Profile:**[^1] "To {User}"
 * **Record Detail:** "To {Company} Only," or "To all with access".
 
-<sup>✝</sup><small>Note that this does not mean the post is private to the user. Anyone that has access to view the user’s profile will see your message. If you’re looking for a way to allow users to privately message one another, you may want to [enable Direct Messaging](https://help.salesforce.com/articleView?id=networks_enable_direct_messages.htm&type=0&language=en_US&release=208.8) in your community.</small>
+[^1]: Note that this does not mean the post is private to the user. Anyone that has access to view the user’s profile will see your message. If you’re looking for a way to allow users to privately message one another, you may want to [enable Direct Messaging](https://help.salesforce.com/articleView?id=networks_enable_direct_messages.htm&type=0&language=en_US&release=208.8) in your community.
 
 For more detail on “Who Sees What” when you post to Chatter, take a look at [this section in Trailhead’s “Lightning Experience Chatter Basics” module](https://trailhead.salesforce.com/en/modules/chatter/units/chatter_intro#Tdxn4tBK-heading11).
 
